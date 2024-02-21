@@ -1,6 +1,6 @@
 # Entrega-1-Funcionalidad-UI
 
 
-# Facty food (recetario)
+# <center>Facty Food</center>
 
-                                          # Diseño de la Interfaz de usuario 
+ Diseño de la Interfaz de usuario 

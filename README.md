@@ -9,3 +9,9 @@
 ### Diseño de intefaz de uzuario 
 
 la interfaz de usuario de la aplicacion Facty Food esta inspirada en aplicaciones similares, En este documento encontra un resumen de la funcionalida de la aplicació para ver la interfas completa en el siguiente enlace [Marvelapp](https://marvelapp.com/project/6645915), los colores que dominan la aplicacion son claros ya que esto facilita la lectura en las diferentes paginas, en las paginas que cuentan con menos texto si cambia la tonalidad de los colores como veremos a continuación:
+
+
+
+# 1.   Home
+      
+El home o pagina principal contara se divide en dos secciones en la primera enontraremos las "Categorias" esta seccion tendra un dezplazamiento horizontal para lograr la visualizacion completa de todas las opciones que contiene. 

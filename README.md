@@ -15,3 +15,4 @@ la interfaz de usuario de la aplicacion Facty Food esta inspirada en aplicacione
 # 1.   Home
       
 El home o pagina principal contara se divide en dos secciones en la primera enontraremos las "Categorias" esta seccion tendra un dezplazamiento horizontal para lograr la visualizacion completa de todas las opciones que contiene. 
+![image](https://github.com/miguelmurillo54/Entrega-1-Funcionalidad-UI/assets/124819253/2c33907f-135b-4fa1-b7b9-05d8eff2c2c6)

@@ -23,6 +23,7 @@ El home o pagina principal se divide en dos secciones en la primera enontraremos
 En la segunda sección encontraremos "Inspirame", esta seccion va dirigida a las personas que no se deciden que comer, aqui encontraran una gran variedad de posibilidades que facilitaran su decision. 
 
 Para lograr una vizualisacion amplia y variada de opciones obtamos por un desplazamiento vertical.
+
 ![image](https://github.com/miguelmurillo54/Entrega-1-Funcionalidad-UI/assets/124819253/f1bd87fa-4c2e-4afa-a080-2c73c0cc79c6)
 
 # 2.   Seleccion

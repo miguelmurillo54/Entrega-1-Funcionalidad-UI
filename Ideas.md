@@ -2,7 +2,7 @@
 
 
 
-# Idea 1: Recetario
+# Idea 1: Recetario   (Seleccionada)
 
 
 Recetarios es una aplicacion que permitira a los usuarios mediante una creacion de cuenta subir recetas de cocina que tengan de costumbre o que hayan obtenido de cualquier otra forma, adicionalmente los usuarios podran participar en grupos y eventos, aparte de los usuarios algunas recetas seran suministradas por Edamam API la cual es una api gratuita de acceso a recetas.

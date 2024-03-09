@@ -9,10 +9,7 @@
 
 3. Cualquier información enviada por el usuario será almacenada de forma local en el dispositivo.
 
-## Funcionalidades de usuario
 
-* Facty Foodd le permitirá al usuario consultar y si es su deseo subir recetas de cocina.
-* Facty Foodd le permitirá al usuario participar en grupos y eventos de cocina que se pueden desarrollar con el trancurso del tiempo.
  
 ## El usuario podrá:
 
@@ -25,3 +22,5 @@
 4. Ver las recetas guardadas: En la parte inferior tenemos un submenu el cual cuenta con varios atajos, uno de ellos pemite al usuario acceder a su perfil donde podra observar sus recetas guardadas. 
 
 5. Consultar noticias: En la parte inferior tenemos un submenu el cual cuenta con varios atajos, uno de ellos pemite al usuario acceder la sección de noticias donde podra encontrar articulos relacionados a nutricion y vida saludable.
+6.  Facty Food le permitirá al usuario consultar y si es su deseo subir recetas de cocina.
+7.  Facty Food le permitirá al usuario participar en grupos y eventos de cocina que se pueden desarrollar con el trancurso del tiempo.

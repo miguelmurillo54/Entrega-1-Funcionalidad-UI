@@ -11,7 +11,7 @@
 
 
  
-## El usuario podrá:
+## Funcionalidad del usuario:
 
 1. Registrase: Al momento de buscar recetas podra seleccionar la opción de agregar receta a Recetas Guardadas.
 
